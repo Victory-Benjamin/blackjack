@@ -71,4 +71,4 @@ elif totalcomputercards == totaluserscard:
 else: 
     print (f"user wins with {totaluserscard} whereas computer loses with {totalcomputercards}")
   
-        # primtnffnjg
+        
