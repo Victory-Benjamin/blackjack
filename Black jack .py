@@ -70,5 +70,5 @@ elif totalcomputercards == totaluserscard:
     print (f"it is a draw. you both have {totalcomputercards}")
 else: 
     print (f"user wins with {totaluserscard} whereas computer loses with {totalcomputercards}")
-   
-        
+  
+        # primtnffnjg
